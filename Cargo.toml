@@ -1,0 +1,6 @@
+[package]
+name = "sinba"
+version = "0.1.0"
+authors = ["中村明 <rectron555@gmail.com>"]
+
+[dependencies]
